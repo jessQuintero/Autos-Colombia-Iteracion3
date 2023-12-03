@@ -1,0 +1,15 @@
+<section id="actions" class="py-4 mb-4 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+               
+            </div>
+            <div class="col-md-3">
+                <button type="submit" class="btn btn-success btn-block">
+                    <i class="fas fa-check"></i> Pagar
+                </button>
+            </div>
+                      
+        </div>
+    </div>
+</section>
